@@ -1,5 +1,7 @@
 # Generative AI — Lab Portfolio
 
+**[🚀 Live Demo: Lab 1 GAN & VAE on Hugging Face Spaces →](https://huggingface.co/spaces/Shafiya1234/gan-vae-image-generator)**
+
 A collection of hands-on labs from a **Generative AI** course, covering generative
 image models (GANs & VAEs), LLM fine-tuning, text-to-image diffusion, and multimodal
 LLM → diffusion pipelines. Each lab includes a fully-run Jupyter notebook and a
