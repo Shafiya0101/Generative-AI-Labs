@@ -1,0 +1,20 @@
+# Core
+torch
+torchvision
+numpy
+scipy
+pandas
+matplotlib
+tqdm
+Pillow
+
+# Hugging Face stack (versions pinned to match Lab 3 / Lab 4 notebooks)
+transformers==4.41.2
+diffusers==0.29.0
+peft==0.10.0
+accelerate
+safetensors
+
+# Notebook environment
+jupyter
+ipython
